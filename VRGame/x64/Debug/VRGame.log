@@ -1,0 +1,21 @@
+﻿  VRGame.cpp
+C:\Users\Admin\source\repos\VRGame\VRGame\chunk.h(310,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\VRGame\VRGame\VRGame.cpp(96,12): warning C4244: '+=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\VRGame\VRGame\VRGame.cpp(143,26): warning C4244: '-=': conversion from 'GLdouble' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\VRGame\VRGame\VRGame.cpp(159,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\VRGame\VRGame\VRGame.cpp(159,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\VRGame\VRGame\VRGame.cpp(159,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\VRGame\VRGame\VRGame.cpp(184,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\VRGame\VRGame\VRGame.cpp(205,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\VRGame\VRGame\VRGame.cpp(246,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\VRGame\VRGame\VRGame.cpp(270,36): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\VRGame\VRGame\VRGame.cpp(276,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  VRGame.vcxproj -> C:\Users\Admin\source\repos\VRGame\x64\Debug\VRGame.exe
